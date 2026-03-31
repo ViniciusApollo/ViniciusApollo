@@ -1,8 +1,11 @@
-# 👩🏻‍💻 Vinicius Apollo
+# 👨🏻‍💻 Vinicius Apollo
 
-**`Desenvolvedoror FullStaca`**
+**`Desenvolvedor Full Stack`**
 
-Me chamo Vinicius Apollo Bamberg, tenho 17 anos e sou natural do Rio Grande do Sul. Comecei minha carreira como dev aos 16 anos, porém minha paixão por resolver problemas complexos e quebrar a cabeça vem desde sempre.   
+Me chamo Vinicius Apollo Bamberg, tenho 17 anos e sou do Rio Grande do Sul. Comecei na programação aos 16 anos e, desde então, venho transformando curiosidade em prática real, trabalhando diretamente com sistemas em produção.
+
+Gosto de resolver problemas complexos e entender a fundo como as coisas funcionam — não apenas fazer tarefas, mas construir soluções eficientes, performáticas e bem estruturadas. Ao longo da minha jornada, atuei em projetos com alto volume de acessos, lidando com desafios reais como otimização de performance, integração de APIs e organização de código escalável.
+   
 
 ---
 
