@@ -1,5 +1,15 @@
 # 👨🏻‍💻 Vinicius Apollo
 
+<a href="https://drive.google.com/file/d/1fVU28DjSOK8DuYblqhnrzoH9fsobys-g/view?usp=drive_link">
+  <img 
+    alt="Download CV" 
+    title="Baixar meu currículo" 
+    src="https://img.shields.io/badge/Curr%C3%ADculo-Download-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+  />
+</a>
+
+<br/>
+
 **`Desenvolvedor Full Stack`**
 
 Me chamo Vinicius Apollo Bamberg, tenho 17 anos e sou do Rio Grande do Sul. Comecei na programação aos 16 anos e, desde então, venho transformando curiosidade em prática real, trabalhando diretamente com sistemas em produção.
