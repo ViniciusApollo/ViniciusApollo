@@ -114,6 +114,24 @@ Gosto de resolver problemas complexos e entender a fundo como as coisas funciona
 <br/>
 <br/>
 
+<p align="left">
+  <a href="mailto:apollovinicius2008@gmail.com">
+    <img 
+      alt="Email" 
+      title="Me envie um email" 
+      src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/vinicius-apollo-01491b306">
+    <img 
+      alt="LinkedIn" 
+      title="Meu LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
+
 <br/>
 <br/>
 
