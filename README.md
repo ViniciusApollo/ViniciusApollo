@@ -1,4 +1,5 @@
 👨🏻‍💻 Vinicius Apollo
+<br>
 <a href="https://drive.google.com/file/d/1fVU28DjSOK8DuYblqhnrzoH9fsobys-g/view?usp=drive_link"> <img alt="Download CV" title="Download my CV" src="https://img.shields.io/badge/Curr%C3%ADculo-Download-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /> </a> <br/> <br/> <p align="left"> <a href="mailto:apollovinicius2008@gmail.com"> <img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/vinicius-apollo-01491b306"> <img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <br/> <br/>
 
 Full Stack Developer
