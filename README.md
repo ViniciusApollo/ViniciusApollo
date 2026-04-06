@@ -31,7 +31,7 @@ Throughout my journey, I've worked on projects with high traffic volumes, facing
 
 
 🤖 Tech Stack
-<div align="left">
+<div align="center">
   <img alt="PHP" title="PHP" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img alt="Laravel" title="Laravel" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
