@@ -25,11 +25,8 @@ I enjoy solving complex problems and deeply understanding how things work — no
 
 <br/> <br/> <br/> <br/>
 📊 Statistics
-<div align="center">
-  <a href="https://github.com/ViniciusApollo">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ViniciusApollo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/ViniciusApollo">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusApollo&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&cache_seconds=86400" />
-  </a>
-</div>
+<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=ViniciusApollo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&cache_seconds=86400" />
+
+<img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusApollo&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&cache_seconds=86400" />
+
+</p> <br/> <br/>
