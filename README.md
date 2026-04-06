@@ -24,10 +24,3 @@ I enjoy solving complex problems and deeply understanding how things work — no
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br/> <br/> <br/> <br/>
-📊 Statistics
-<p> 
-
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-
-</p> <br/> <br/>
