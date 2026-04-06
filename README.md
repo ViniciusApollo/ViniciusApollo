@@ -17,6 +17,9 @@
   </a>
 </div>
 
+<br />
+<br />
+
 📋 About Me
 My name is Vinicius Apollo Bamberg, I'm 17 years old, and I'm from Rio Grande do Sul, Brazil. I started programming at 16 years old and since then, I've been turning curiosity into real practice, working directly with production systems.
 I enjoy solving complex problems and deeply understanding how things work — not just completing tasks, but building efficient, high-performance, and well-structured solutions.
